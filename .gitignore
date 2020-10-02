@@ -1,0 +1,6 @@
+lem_in
+*/*.o
+*.o
+.DS_STORE
+tags
+info.json
